@@ -1,3 +1,5 @@
+> This repository is a copy (with full commit history) of the team project `DomQuangMinhTriet/EC_Nhom3` (HCMUS E-Commerce course, team of 4), kept here as part of my portfolio.
+
 # Online Voucher Discount E-Commerce Platform
 
 Full-stack e-commerce platform for buying and redeeming discount vouchers
